@@ -1,4 +1,4 @@
-var key = require("./keys.js");
+var key = require("./_keys.js");
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 const https = require('https');
