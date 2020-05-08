@@ -157,7 +157,7 @@ function addAttachments(message, location, tab) {
 
 function initFirebase() {
     var firebaseConfig = {
-        apiKey: "AIzaSyAvzdg1ab0SR-O5mf_gMigE0m2QToZJLxI",
+        apiKey: key.firebase,
         authDomain: "albionassets.firebaseapp.com",
         databaseURL: "https://albionassets.firebaseio.com",
         projectId: "albionassets",
