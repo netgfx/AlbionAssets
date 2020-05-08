@@ -19,7 +19,7 @@ const algorithm = 'aes-256-cbc';
 const iv = crypto.randomBytes(16);
 
 const app = express()
-const port = 8080
+const port = 8000
 
 app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`))
 
