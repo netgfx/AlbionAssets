@@ -15,7 +15,7 @@
         "assets"
     ],
     "dependencies": {
-        "axios": "^0.19.2",
+        "axios": "^0.21.2",
         "canvas": "^2.6.1",
         "crypto": "^1.0.1",
         "crypto-js": "^4.0.0",
