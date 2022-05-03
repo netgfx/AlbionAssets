@@ -24,7 +24,7 @@
         "express": "^4.17.1",
         "firebase": "^7.14.2",
         "lodash": "^4.17.21",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "serve-index": "^1.9.1"
     },
     "author": "MDobekidis (Netgfx)",
